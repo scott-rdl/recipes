@@ -4,7 +4,7 @@
 Amount | Ingredient
 -- | --
 4 | eggs
-120g | better
+120g | butter
 80g | flour
 130g | sugar
 200g | chocolate bar
