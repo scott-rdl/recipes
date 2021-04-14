@@ -2,6 +2,7 @@
 My personal recipe collection.
 
 ## Sweet
+:cup_with_straw: [Chia Pudding](chia-pudding.md)<br>
 :chocolate_bar: [Scott's Chocolate Cake](scott-chocolate-cake.md)<br>
 :milk_glass: [Wonderful Yogurt Cake](wonderful-yogurt-cake.md)<br>
 <br>
