@@ -1,6 +1,6 @@
 # :basket: Liquid Laundry
 
-# :spoon: Needed
+## :spoon: Needed
 Amount | Ingredient
 -- | --
 3L | Water
