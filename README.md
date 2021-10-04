@@ -7,8 +7,9 @@ My personal recipe collection.
 :milk_glass: [Wonderful Yogurt Cake](wonderful-yogurt-cake.md)<br>
 <br>
 
-## Soap
+## Cosmetic
 :shower: [Creamy White Clay Soap](creamy-white-clay-soap.md)<br>
 :basket: [Liquid Laundry](liquid-laundry.md)<br>
 :soap: [Mint Solid Shampoo](mint-solid-shampoo.md)<br>
+:lipstick: &nbsp;[Natural Lip Balm](natural-lip-balm.md)<br>
 <br>
